@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+	<color name="list_item_default">#00000000</color>
+	<color name="list_item_pressed">#FF1133</color>
+	<color name="list_item_selected">#E3902A</color>
+</resources>

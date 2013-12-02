@@ -1,0 +1,10 @@
+/Users/agutierrez/Workspace/MvxListView/FirstDemo.Droid/bin/Debug/FirstDemo.Droid.dll
+/Users/agutierrez/Workspace/MvxListView/packages/MvvmCross.HotTuna.MvvmCrossLibraries.3.0.14/lib/MonoAndroid/Cirrious.MvvmCross.dll
+/Users/agutierrez/Workspace/MvxListView/packages/MvvmCross.HotTuna.MvvmCrossLibraries.3.0.14/lib/MonoAndroid/Cirrious.MvvmCross.Droid.dll
+/Users/agutierrez/Workspace/MvxListView/packages/MvvmCross.HotTuna.CrossCore.3.0.14/lib/MonoAndroid/Cirrious.CrossCore.Droid.dll
+/Users/agutierrez/Workspace/MvxListView/packages/MvvmCross.HotTuna.CrossCore.3.0.14/lib/MonoAndroid/Cirrious.MvvmCross.Binding.Droid.dll
+/Users/agutierrez/Workspace/MvxListView/packages/MvvmCross.HotTuna.CrossCore.3.0.14/lib/MonoAndroid/Cirrious.CrossCore.dll
+/Users/agutierrez/Workspace/MvxListView/packages/MvvmCross.HotTuna.CrossCore.3.0.14/lib/MonoAndroid/Cirrious.MvvmCross.Binding.dll
+/Users/agutierrez/Workspace/MvxListView/packages/MvvmCross.HotTuna.CrossCore.3.0.14/lib/MonoAndroid/Cirrious.MvvmCross.Localization.dll
+/Users/agutierrez/Workspace/MvxListView/packages/MvvmCross.HotTuna.Plugin.MethodBinding.3.0.14/lib/MonoAndroid/Cirrious.MvvmCross.Plugins.MethodBinding.dll
+/Users/agutierrez/Workspace/MvxListView/FirstDemo.Core/bin/Debug/FirstDemo.Core.dll

@@ -1,0 +1,9 @@
+/Users/agutierrez/Workspace/MvxListView/FirstDemo.Core/obj/Debug/.NETPortable,Version=v4.0,Profile=Profile104.AssemblyAttribute.cs
+/Users/agutierrez/Workspace/MvxListView/FirstDemo.Core/obj/Debug/.NETPortable,Version=v4.0,Profile=Profile158.AssemblyAttribute.cs
+/Users/agutierrez/Workspace/MvxListView/FirstDemo.Core/bin/Debug/FirstDemo.Core.dll.mdb
+/Users/agutierrez/Workspace/MvxListView/FirstDemo.Core/bin/Debug/FirstDemo.Core.dll
+/Users/agutierrez/Workspace/MvxListView/FirstDemo.Core/obj/Debug/FirstDemo.Core.dll
+/Users/agutierrez/Workspace/MvxListView/FirstDemo.Core/obj/Debug/FirstDemo.Core.dll.mdb
+/Users/agutierrez/Workspace/MvxListView/FirstDemo.Core/bin/Debug/Cirrious.CrossCore.dll
+/Users/agutierrez/Workspace/MvxListView/FirstDemo.Core/bin/Debug/Cirrious.MvvmCross.dll
+/Users/agutierrez/Workspace/MvxListView/FirstDemo.Core/bin/Debug/Cirrious.MvvmCross.Localization.dll
